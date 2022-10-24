@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cypher-ravi
-- 👀 I’m interested in Python and Django
-- 🌱 I’m currently learning Advanced API development using Django Rest Framework
-- 💞️ I’m looking to collaborate on Django Projects
+- 👋 Hi, I’m Ravi @cypher-ravi
+- 👀 I’m interested in Web Development and Innovative Ideas
+- 🌱 I’m currently learning AWS and machine learning
+- 💞️ I’m looking for internship and full time role as a software engineer.
 - 📫 How to reach me - ronniloreo@gmail.com
 
 <!---
