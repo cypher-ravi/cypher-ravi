@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravi @cypher-ravi
 - 👀 I’m interested in Web Development and Innovative Ideas
-- 🌱 I’m currently learning AWS and machine learning
+- 🌱 I’m currently learning System Design , Web Scraping , Three.js, Idea to code and AI Intergation to existing products
 - 📫 How to reach me - ravidev1999@gmail.com
 
 <!---
